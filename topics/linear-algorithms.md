@@ -14,4 +14,4 @@ $`u = \frac{\sqrt[3]{8 + |x - y|^2 + 1}}{x^2 + y^2 + 2} - e^{|x-y|} \left( tg^2 
 
 3. Получить результат $` v = 1.0553 `$ при следующих переменных: $` x = 3.74 \times 10^{-2}; `$ $` y = -0.825; `$ $` z = 0.16 \times 10^{2} `$.
 
-$` v = \frac{1 + \sin^2(x + y)}{\left| x - \frac{2y}{1 + x^2 y^2} \right|} x^{|y|} + \cos^2\left( arctg \frac{1}{z} \right) `$.
+$` v = \frac{1 + \sin^2(x + y)}{\left| x - \frac{2y}{1 + x^2 y^2} \right|} x^{|y|} + \cos^2\left( arctg \frac{1}{z} \right) `$
