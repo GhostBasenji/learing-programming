@@ -18,4 +18,4 @@ $` v = \frac{1 + \sin^2(x + y)}{\left| x - \frac{2y}{1 + x^2 y^2} \right|} x^{|y
 
 4. Получить результат $` w = 1.9873 `$ при следующих переменных: $` x = 0.4 \times 10^{4}; `$ $` y = -0.875; `$ $` z = -0.475 \times 10^{-3} `$.
 
-$` w = |\cos x - \cos y|^{1 + 2 \sin^2 y} \cdot \left(1 + z + \frac{z^2}{2} + \frac{z^3}{3} + \frac{z^4}{4}\right) `$
+$` w = |\cos x - \cos y|^{(1 + 2 \sin^2 y)} \cdot \left(1 + z + \frac{z^2}{2} + \frac{z^3}{3} + \frac{z^4}{4}\right) `$
