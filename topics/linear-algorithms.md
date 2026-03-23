@@ -22,4 +22,4 @@ $` w = |\cos x - \cos y|^{(1 + 2 \sin^2 y)} \cdot \left(1 + z + \frac{z^2}{2} + 
 
 5. Получить результат $` \alpha = -182.036 `$ при следующих переменных: $` x = -15.246; `$ $` y = 4.642 \times 10^{-2}; `$ $` z = 20.001 \times 10^{2} `$.
 
-$` \alpha = \ln\left( y^{-\sqrt{|x|}} \right) = x = \frac{y}{2} + \sin^2(\operatorname{arctg} z) `$
+$` \alpha = \ln\left( y^{-\sqrt{|x|}} \right)( x - \frac{y}{2}) + \sin^2({arctg}( z)) `$
