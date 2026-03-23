@@ -18,7 +18,7 @@ $` v = \frac{1 + \sin^2(x + y)}{\left| x - \frac{2y}{1 + x^2 y^2} \right|} x^{|y
 
 4. Получить результат $` w = 1.9873 `$ при следующих переменных: $` x = 0.4 \times 10^{4}; `$ $` y = -0.875; `$ $` z = -0.475 \times 10^{-3} `$.
 
-$` w = |\cos x - \cos y|^{(1 + 2 \sin^2 y)} \cdot \left(1 + z + \frac{z^2}{2} + \frac{z^3}{3} + \frac{z^4}{4}\right) `$
+$` w = |\cos x - \cos y|^{(1 + 2 \sin^2 y)}\left(1 + z + \frac{z^2}{2} + \frac{z^3}{3} + \frac{z^4}{4}\right) `$
 
 5. Получить результат $` \alpha = -182.036 `$ при следующих переменных: $` x = -15.246; `$ $` y = 4.642 \times 10^{-2}; `$ $` z = 20.001 \times 10^{2} `$.
 
@@ -26,4 +26,4 @@ $` \alpha = \ln\left( y^{-\sqrt{|x|}} \right)( x - \frac{y}{2}) + \sin^2({arctg}
 
 6. Получить результат $` \beta = -40.63069 `$ при следующих переменных: $` x = 16.55 \times 10^{-3}; `$ $` y = -2.75; `$ $` z = 0.15 `$.
 
-$` \beta = \sqrt{-10} \cdot \left( \sqrt[3]{x} + x^y + 2 \right) \cdot \left( \arcsin^2 z - |x - y| \right) `$
+$` \beta = \sqrt{10 \left( \sqrt[3]{x} + x^{y+2} \right)}\left( \arcsin^2 z - |x - y| \right) `$
